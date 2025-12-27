@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "廻廻奇譚",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-27T14:57:16.580166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "廻廻奇譚",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/01_廻廻奇譚_Roselia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "廻廻奇譚 - Cover",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/02_廻廻奇譚_-_Cover_Roselia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "廻廻奇譚",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/03_廻廻奇譚_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "廻廻奇譚 『TVアニメ「呪術廻戦」』",
+      "artist": "ShiroNeko",
+      "has_synced": true,
+      "path": "select/04_廻廻奇譚_『TVアニメ「呪術廻戦」』_ShiroNeko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "廻廻奇譚",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_廻廻奇譚_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "廻廻奇譚 - Kaikaikitan",
+      "artist": "My First Story",
+      "has_synced": true,
+      "path": "select/06_廻廻奇譚_-_Kaikaikitan_My_First_Story.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "廻廻奇譚",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_廻廻奇譚_Eve.txt"
+    }
+  ]
+}
